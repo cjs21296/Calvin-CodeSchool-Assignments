@@ -1,0 +1,14 @@
+{
+  "id" : 0,
+  "name" : "cake",
+  "ingredients" : [ {
+    "id" : 0,
+    "name" : "egg"
+  }, {
+    "id" : 1,
+    "name" : "flour"
+  }, {
+    "id" : 2,
+    "name" : "sugar"
+  } ]
+}

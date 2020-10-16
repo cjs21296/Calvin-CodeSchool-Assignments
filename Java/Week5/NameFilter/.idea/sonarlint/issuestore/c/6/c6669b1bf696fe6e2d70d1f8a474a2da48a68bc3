@@ -1,0 +1,16 @@
+
+U
+java:S1128"3Remove this unused import 'jdk.dynalink.Operation'.(¦İçŒüÿÿÿÿ8ÙÀ«Ğ.
+J
+java:S1172"(Remove this unused method parameter "x".(——Óºşÿÿÿÿ8Ô±¤¬Ğ.
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ÀÕ«Ğ.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®óÚ‰8ìî±ªĞ.
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(§›ê±şÿÿÿÿ8‘Ëó¬Ğ.
+Y
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(Ç¤ìşÿÿÿÿ8Šë„¬Ğ.
+i	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í™ğ}8Ôƒ‡Ğ.
+E
+java:S1172"(Remove this unused method parameter "x".(®óÚ‰8ÍÆ‘«Ğ.

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03591b1a-b5b8-4e28-8f52-36b8380f51e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/sonarlint/issuestore/6/5/658949b5168315c4dfd1b6cc34c3bb39e50753e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/Week1_Assignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/out/production/Week1_Assignment1/edu/mccneb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1/src/edu/mccneb/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/sonarlint/issuestore/6/5/658949b5168315c4dfd1b6cc34c3bb39e50753e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/sonarlint/issuestore/e/c/ec83a2da8fa0d4b49a2cc43f64537cf0b2d063e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/Assignment2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assignment2/edu/mccneb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/src/edu/mccneb/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/sonarlint/issuestore/6/5/658949b5168315c4dfd1b6cc34c3bb39e50753e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bellwork.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/Bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/8bitBellwork/stuff.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/GuessingGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/sonarlint/issuestore/6/5/658949b5168315c4dfd1b6cc34c3bb39e50753e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/Week2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/out/production/Week2/edu/mccneb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/W2_java/src/edu/mccneb/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/out/production/Week 2/edu/mccneb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GuessingGame/src/edu/mccneb/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/6.5/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/Wk3DiceLab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/out/production/Wk3DiceLab/edu/mccneb/Dice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/out/production/Wk3DiceLab/edu/mccneb/DiceRoller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/out/production/Wk3DiceLab/edu/mccneb/Die.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/src/edu/mccneb/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/src/edu/mccneb/DiceRoller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Wk3DiceLab/src/edu/mccneb/Die.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1i22292IPafVtE7jl4VzdbDfGAa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.mccneb.Main" />
+      <module name="Week3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03591b1a-b5b8-4e28-8f52-36b8380f51e7" name="Default Changelist" comment="" />
+      <created>1601091156610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601091156610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="758" y="154" key="FileChooserDialogImpl" timestamp="1601091207626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="758" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601091207626" />
+    <state x="418" y="33" key="new project wizard" timestamp="1601091219600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1601091219600" />
+  </component>
+</project>

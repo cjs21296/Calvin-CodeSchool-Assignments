@@ -1,0 +1,17 @@
+{
+  "id" : 0,
+  "name" : "Waffles",
+  "ingredients" : [ {
+    "id" : 0,
+    "name" : "egg"
+  }, {
+    "id" : 1,
+    "name" : "flour"
+  }, {
+    "id" : 2,
+    "name" : "Syrup"
+  }, {
+    "id" : 3,
+    "name" : "Butter"
+  } ]
+}

@@ -1,0 +1,5 @@
+Hello = Elloay
+SuperTest = UperTestay
+Calvin = Alvinay
+Rob = Obay
+Building = Uildingay

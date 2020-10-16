@@ -1,0 +1,8 @@
+Sky: F0FEFE
+Sun: Yellow
+Roof: Gray
+Building: F5F5DC
+window: black
+Door: red
+tree leaf: green
+grass: lime

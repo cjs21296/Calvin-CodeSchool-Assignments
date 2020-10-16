@@ -1,0 +1,56 @@
+
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(«‰œ£ùÿÿÿÿ8õò¢¥É.
+I
+java:S1444"'Make this "public static r" field final(Ùğ¡ûûÿÿÿÿ8–ÙÖ¤É.
+n
+java:S3457O"Q%n should be used in place of \n to produce the platform-specific line separator.(åË®¹8ƒí„¦É.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(ñõÙõıÿÿÿÿ8¶ğ¦É.
+o	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´İóıÿÿÿÿ8¿‡‡¥É.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.( ÷ëõıÿÿÿÿ8ÉüÃ¥É.
+ƒ
+java:S1845Q"aRename method "Total" to prevent any misunderstanding/clash with field "total" defined on line 8.(ô´İóıÿÿÿÿ8¿‡‡¥É.
+o
+java:S1104"MMake s a static final constant or non-public and provide accessors if needed.(ùÒ‚øÿÿÿÿ8­üç¤É.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(òÙÍñ8Ìäß¤É.
+m
+java:S1104"QMake dice1 a static final constant or non-public and provide accessors if needed.(Ñöê28•ò¤É.
+]	java:S125"<This block of commented-out lines of code should be removed.(‚øÓÿüÿÿÿÿ8˜û•¦É.
+m
+java:S1104"QMake total a static final constant or non-public and provide accessors if needed.(Ñöê28•ò¤É.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(Âšáÿÿÿÿÿ8Òàÿ¤É.
+M
+java:S1444"+Make this "public static again" field final(şÍÀ·ÿÿÿÿÿ8¯ñ¤É.
+o	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÖÃ•ıÿÿÿÿ8¶ğ¦É.
+G
+java:S1444"+Make this "public static total" field final(Ñöê28•ò¤É.
+s
+java:S1104"QMake again a static final constant or non-public and provide accessors if needed.(şÍÀ·ÿÿÿÿÿ8¯ñ¤É.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Ñ×™“ùÿÿÿÿ8§«Š¥É.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íñ¨·8¹å¤É.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(¹ˆáéúÿÿÿÿ8İ¥¥É.
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(åË®¹8…ò¦É.
+T	java:S106["9Replace this use of System.out or System.err by a logger.(Åô8³€Â¥É.
+m
+java:S1104"QMake dice2 a static final constant or non-public and provide accessors if needed.(Ñöê28•ò¤É.
+G
+java:S1444"+Make this "public static dice2" field final(Ñöê28•ò¤É.
+?
+java:S1659"#Declare "total" on a separate line.(Ñöê28Ûñ¤É.
+?
+java:S1659"#Declare "dice2" on a separate line.(Ñöê28Ûñ¤É.
+G
+java:S1444"+Make this "public static dice1" field final(Ñöê28•ò¤É.
+j	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¹Êß8ÄÇö¤É.
+o
+java:S1104"MMake r a static final constant or non-public and provide accessors if needed.(Ùğ¡ûûÿÿÿÿ8–ÙÖ¤É.
+Y
+java:S1854X"<Remove this useless assignment to local variable "dicesize".(Ì‰€Á8òÛÀ¥É.
+I
+java:S1444"'Make this "public static s" field final(ùÒ‚øÿÿÿÿ8­üç¤É.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Œ†¹‘8”€æ¤É.
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûå©È8œî¿¥É.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Æì©¥É.
+j	java:S100H"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Î»œ8Œ½ı¤É.
+J
+java:S1481"(Remove this unused "num" local variable.(“®´Üúÿÿÿÿ8Äš–¦É.

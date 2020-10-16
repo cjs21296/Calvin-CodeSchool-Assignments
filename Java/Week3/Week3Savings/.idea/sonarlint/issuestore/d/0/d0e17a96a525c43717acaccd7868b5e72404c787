@@ -1,0 +1,20 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á«ìÜ8´Æ­ÅÌ.
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯½…Ùøÿÿÿÿ8í—ÆÅÌ.
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â­Ğ8ØÙûÄÌ.
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÁÒµ8½ øÄÌ.
+_
+java:S1854"=Remove this useless assignment to local variable "genreType".(Ìñ„¹ıÿÿÿÿ8ıà£¸Î.
+^
+java:S11261"AReplace this if-then-else statement by a single return statement.(â¬ÏØ8¿ßáÄÌ.
+r	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯½…Ùøÿÿÿÿ8í—ÆÅÌ.
+o
+java:S3008"MRename this field "NF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¬Å¶ùÿÿÿÿ8ºÑ‘ÅÌ.
+r	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Œ‚ßÿÿÿÿÿ8½ øÄÌ.
+m	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â­Ğ8½ øÄÌ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½µ²úıÿÿÿÿ8îß‹ÆÌ.
+P
+java:S1481".Remove this unused "genreType" local variable.(Ìñ„¹ıÿÿÿÿ8ıà£¸Î.
+r	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Œ‚ßÿÿÿÿÿ8ØÙûÄÌ.
+r	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ıÍ‡ÿÿÿÿÿ8½ øÄÌ.
